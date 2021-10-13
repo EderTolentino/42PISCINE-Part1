@@ -1,0 +1,12 @@
+Credentials cache: API:EEB9EEF2-4691-4580-99FD-1DC3416823E3
+        Principal: eluiz-to@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  2 08:58:32 2021  Aug  2 18:58:32 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  2 08:58:35 2021  Aug  2 18:58:32 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
+
+Credentials cache: API:8114D615-53C3-44E7-8E32-B9AE4258F1DD
+        Principal: eluiz-to@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  3 18:10:31 2021  Aug  4 04:10:31 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
